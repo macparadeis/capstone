@@ -23,7 +23,7 @@ Project consists of a 3D virtual escape room game created by four students at Or
 - <b>Mackenzie Paradeis</b>
 - <b>Ashton Stasko</b>
 
-<h2>Program walk-through:</h2>
+<h2>Gameplay Screenshots:</h2>
 
 <p align="center">
 Launch the game: <br/>
